@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to discover trends
+#Louise-Kickstarter-Campaign-Analysis 
+Performing analysis on Kickstarter data to discover trends 
