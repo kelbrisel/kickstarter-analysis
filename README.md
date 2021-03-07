@@ -1,3 +1,4 @@
+
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -13,9 +14,12 @@ I compiled theater outcomes by launch date and initial campaign fundraising goal
 ### Analysis of Outcomes Based on Launch Date
 Filtering data to show successful, failed and canceled plays based on which month each play launched to show correlation of launch timing and overall success of projects
 
+<img width="1014" alt="Screen Shot 2021-03-07 at 1 42 57 PM" src="https://user-images.githubusercontent.com/78561980/110256151-f0498180-7f5c-11eb-8337-0689ae071b61.png">
 
 ### Analysis of Outcomes Based on Goals
 Filtering data to show percentage of successful, failed and canceled plays based on initial fundraising goals in $5,000 increments to show likelihood of success in relation to cost of production
+
+<img width="715" alt="Screen Shot 2021-03-07 at 1 43 39 PM" src="https://user-images.githubusercontent.com/78561980/110256171-0a835f80-7f5d-11eb-9b44-74b6356a6df1.png">
 
 ### Challenges and Difficulties Encountered
 There were no canceled plays in the dataset so I could not provide percentages of that outcome. 
